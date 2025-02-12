@@ -1,3 +1,0 @@
-hii da welcome'
-
-return response
